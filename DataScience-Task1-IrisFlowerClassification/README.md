@@ -32,6 +32,20 @@ OIBSIP/
     └── README.md
 ```
 
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project in Jupyter Notebook.
+3. Install the required libraries if needed:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+4. Run all cells in the notebook.
+
+---
+
 ## 👩‍💻 Author
 **Anjali Singh**  
 Oasis Infobyte – Data Science Internship
