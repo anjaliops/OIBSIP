@@ -1,0 +1,207 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%),Region.1,Month,Year,Period
+Andhra Pradesh,2019-05-31,Monthly,3.65,11999139.0,43.24,Rural,May,2019,Pre-COVID
+Andhra Pradesh,2019-06-30,Monthly,3.05,11755881.0,42.05,Rural,June,2019,Pre-COVID
+Andhra Pradesh,2019-07-31,Monthly,3.75,12086707.0,43.5,Rural,July,2019,Pre-COVID
+Andhra Pradesh,2019-08-31,Monthly,3.32,12285693.0,43.97,Rural,August,2019,Pre-COVID
+Andhra Pradesh,2019-09-30,Monthly,5.17,12256762.0,44.68,Rural,September,2019,Pre-COVID
+Andhra Pradesh,2019-10-31,Monthly,3.7,12417412.0,44.2,Rural,October,2019,Pre-COVID
+Andhra Pradesh,2019-11-30,Monthly,4.93,12337588.0,45.14,Rural,November,2019,Pre-COVID
+Andhra Pradesh,2019-12-31,Monthly,4.5,12012812.0,43.77,Rural,December,2019,Pre-COVID
+Andhra Pradesh,2020-01-31,Monthly,5.48,16635535.0,41.02,South,January,2020,Pre-COVID
+Andhra Pradesh,2020-02-29,Monthly,5.83,16545652.0,40.9,South,February,2020,Pre-COVID
+Andhra Pradesh,2020-03-31,Monthly,5.79,15881197.0,39.18,South,March,2020,Post-COVID
+Andhra Pradesh,2020-04-30,Monthly,20.51,11336911.0,33.1,South,April,2020,Post-COVID
+Andhra Pradesh,2020-05-31,Monthly,17.43,12988845.0,36.46,South,May,2020,Post-COVID
+Andhra Pradesh,2020-06-30,Monthly,3.31,14904225.0,39.45,South,June,2020,Post-COVID
+Andhra Pradesh,2020-07-31,Monthly,6.88,14457432.0,40.05,South,July,2020,Post-COVID
+Andhra Pradesh,2020-08-31,Monthly,8.15,14135184.0,40.22,South,August,2020,Post-COVID
+Andhra Pradesh,2020-09-30,Monthly,5.17,15046398.0,40.8,South,September,2020,Post-COVID
+Andhra Pradesh,2020-10-31,Monthly,6.3,14523456.0,40.1,South,October,2020,Post-COVID
+Andhra Pradesh,2020-11-30,Monthly,6.2,14876543.0,40.5,South,November,2020,Post-COVID
+Assam,2020-01-31,Monthly,4.23,6821234.0,41.5,Northeast,January,2020,Pre-COVID
+Assam,2020-02-29,Monthly,4.9,6745123.0,41.2,Northeast,February,2020,Pre-COVID
+Assam,2020-03-31,Monthly,4.8,6654321.0,40.9,Northeast,March,2020,Post-COVID
+Assam,2020-04-30,Monthly,11.06,6012345.0,37.8,Northeast,April,2020,Post-COVID
+Assam,2020-05-31,Monthly,9.4,6234567.0,39.1,Northeast,May,2020,Post-COVID
+Assam,2020-06-30,Monthly,5.5,6512345.0,40.3,Northeast,June,2020,Post-COVID
+Assam,2020-07-31,Monthly,5.2,6598765.0,40.6,Northeast,July,2020,Post-COVID
+Assam,2020-08-31,Monthly,5.0,6634567.0,40.8,Northeast,August,2020,Post-COVID
+Assam,2020-09-30,Monthly,4.8,6678901.0,41.0,Northeast,September,2020,Post-COVID
+Assam,2020-10-31,Monthly,4.6,6712345.0,41.2,Northeast,October,2020,Post-COVID
+Assam,2020-11-30,Monthly,4.5,6745678.0,41.4,Northeast,November,2020,Post-COVID
+Bihar,2020-01-31,Monthly,15.0,15400000.0,37.0,East,January,2020,Pre-COVID
+Bihar,2020-02-29,Monthly,13.0,15500000.0,37.5,East,February,2020,Pre-COVID
+Bihar,2020-03-31,Monthly,14.0,15300000.0,36.9,East,March,2020,Post-COVID
+Bihar,2020-04-30,Monthly,46.0,11000000.0,30.0,East,April,2020,Post-COVID
+Bihar,2020-05-31,Monthly,36.0,12100000.0,32.0,East,May,2020,Post-COVID
+Bihar,2020-06-30,Monthly,18.0,14500000.0,35.0,East,June,2020,Post-COVID
+Bihar,2020-07-31,Monthly,13.0,15200000.0,36.5,East,July,2020,Post-COVID
+Bihar,2020-08-31,Monthly,12.0,15400000.0,37.0,East,August,2020,Post-COVID
+Bihar,2020-09-30,Monthly,11.0,15600000.0,37.2,East,September,2020,Post-COVID
+Bihar,2020-10-31,Monthly,10.0,15800000.0,37.5,East,October,2020,Post-COVID
+Bihar,2020-11-30,Monthly,9.0,16000000.0,37.8,East,November,2020,Post-COVID
+Delhi,2020-01-31,Monthly,20.0,5000000.0,45.0,North,January,2020,Pre-COVID
+Delhi,2020-02-29,Monthly,18.0,5050000.0,45.2,North,February,2020,Pre-COVID
+Delhi,2020-03-31,Monthly,25.0,4900000.0,44.0,North,March,2020,Post-COVID
+Delhi,2020-04-30,Monthly,40.0,4000000.0,36.0,North,April,2020,Post-COVID
+Delhi,2020-05-31,Monthly,45.0,3800000.0,35.0,North,May,2020,Post-COVID
+Delhi,2020-06-30,Monthly,18.0,4700000.0,43.0,North,June,2020,Post-COVID
+Delhi,2020-07-31,Monthly,20.0,4650000.0,42.5,North,July,2020,Post-COVID
+Delhi,2020-08-31,Monthly,17.0,4800000.0,43.5,North,August,2020,Post-COVID
+Delhi,2020-09-30,Monthly,15.0,4900000.0,44.0,North,September,2020,Post-COVID
+Delhi,2020-10-31,Monthly,12.0,4950000.0,44.5,North,October,2020,Post-COVID
+Delhi,2020-11-30,Monthly,11.0,5000000.0,45.0,North,November,2020,Post-COVID
+Haryana,2020-01-31,Monthly,19.0,8500000.0,45.0,North,January,2020,Pre-COVID
+Haryana,2020-02-29,Monthly,18.0,8600000.0,45.5,North,February,2020,Pre-COVID
+Haryana,2020-03-31,Monthly,25.0,8400000.0,44.0,North,March,2020,Post-COVID
+Haryana,2020-04-30,Monthly,43.0,7000000.0,38.0,North,April,2020,Post-COVID
+Haryana,2020-05-31,Monthly,29.0,7600000.0,40.0,North,May,2020,Post-COVID
+Haryana,2020-06-30,Monthly,25.0,7900000.0,41.0,North,June,2020,Post-COVID
+Haryana,2020-07-31,Monthly,22.0,8000000.0,42.0,North,July,2020,Post-COVID
+Haryana,2020-08-31,Monthly,20.0,8100000.0,42.5,North,August,2020,Post-COVID
+Haryana,2020-09-30,Monthly,19.0,8200000.0,43.0,North,September,2020,Post-COVID
+Haryana,2020-10-31,Monthly,18.0,8300000.0,43.5,North,October,2020,Post-COVID
+Haryana,2020-11-30,Monthly,17.0,8400000.0,44.0,North,November,2020,Post-COVID
+Jharkhand,2020-01-31,Monthly,11.0,7200000.0,42.0,East,January,2020,Pre-COVID
+Jharkhand,2020-02-29,Monthly,12.0,7100000.0,41.5,East,February,2020,Pre-COVID
+Jharkhand,2020-03-31,Monthly,9.0,7300000.0,42.5,East,March,2020,Post-COVID
+Jharkhand,2020-04-30,Monthly,47.0,5000000.0,32.0,East,April,2020,Post-COVID
+Jharkhand,2020-05-31,Monthly,22.0,6200000.0,37.0,East,May,2020,Post-COVID
+Jharkhand,2020-06-30,Monthly,18.0,6600000.0,39.0,East,June,2020,Post-COVID
+Jharkhand,2020-07-31,Monthly,15.0,6800000.0,40.0,East,July,2020,Post-COVID
+Jharkhand,2020-08-31,Monthly,14.0,6900000.0,40.5,East,August,2020,Post-COVID
+Jharkhand,2020-09-30,Monthly,13.0,7000000.0,41.0,East,September,2020,Post-COVID
+Jharkhand,2020-10-31,Monthly,12.0,7100000.0,41.5,East,October,2020,Post-COVID
+Jharkhand,2020-11-30,Monthly,11.0,7200000.0,42.0,East,November,2020,Post-COVID
+Karnataka,2020-01-31,Monthly,2.9,24000000.0,42.0,South,January,2020,Pre-COVID
+Karnataka,2020-02-29,Monthly,3.1,23900000.0,42.2,South,February,2020,Pre-COVID
+Karnataka,2020-03-31,Monthly,3.5,23800000.0,42.0,South,March,2020,Post-COVID
+Karnataka,2020-04-30,Monthly,29.8,19000000.0,36.0,South,April,2020,Post-COVID
+Karnataka,2020-05-31,Monthly,19.0,20500000.0,38.0,South,May,2020,Post-COVID
+Karnataka,2020-06-30,Monthly,8.0,22500000.0,40.0,South,June,2020,Post-COVID
+Karnataka,2020-07-31,Monthly,7.0,22800000.0,40.5,South,July,2020,Post-COVID
+Karnataka,2020-08-31,Monthly,6.0,23000000.0,41.0,South,August,2020,Post-COVID
+Karnataka,2020-09-30,Monthly,5.5,23200000.0,41.5,South,September,2020,Post-COVID
+Karnataka,2020-10-31,Monthly,5.0,23400000.0,42.0,South,October,2020,Post-COVID
+Karnataka,2020-11-30,Monthly,4.8,23500000.0,42.2,South,November,2020,Post-COVID
+Kerala,2020-01-31,Monthly,6.0,9000000.0,44.0,South,January,2020,Pre-COVID
+Kerala,2020-02-29,Monthly,5.5,9050000.0,44.2,South,February,2020,Pre-COVID
+Kerala,2020-03-31,Monthly,7.0,8900000.0,43.5,South,March,2020,Post-COVID
+Kerala,2020-04-30,Monthly,17.0,8000000.0,39.0,South,April,2020,Post-COVID
+Kerala,2020-05-31,Monthly,16.0,8100000.0,39.5,South,May,2020,Post-COVID
+Kerala,2020-06-30,Monthly,9.0,8600000.0,42.0,South,June,2020,Post-COVID
+Kerala,2020-07-31,Monthly,8.0,8700000.0,42.5,South,July,2020,Post-COVID
+Kerala,2020-08-31,Monthly,7.5,8750000.0,43.0,South,August,2020,Post-COVID
+Kerala,2020-09-30,Monthly,7.0,8800000.0,43.5,South,September,2020,Post-COVID
+Kerala,2020-10-31,Monthly,6.5,8850000.0,44.0,South,October,2020,Post-COVID
+Kerala,2020-11-30,Monthly,6.0,8900000.0,44.5,South,November,2020,Post-COVID
+Madhya Pradesh,2020-01-31,Monthly,3.5,14500000.0,39.0,Central,January,2020,Pre-COVID
+Madhya Pradesh,2020-02-29,Monthly,3.8,14600000.0,39.2,Central,February,2020,Pre-COVID
+Madhya Pradesh,2020-03-31,Monthly,4.0,14500000.0,39.0,Central,March,2020,Post-COVID
+Madhya Pradesh,2020-04-30,Monthly,21.0,12500000.0,34.0,Central,April,2020,Post-COVID
+Madhya Pradesh,2020-05-31,Monthly,15.0,13200000.0,36.0,Central,May,2020,Post-COVID
+Madhya Pradesh,2020-06-30,Monthly,8.0,14000000.0,38.0,Central,June,2020,Post-COVID
+Madhya Pradesh,2020-07-31,Monthly,6.0,14300000.0,39.0,Central,July,2020,Post-COVID
+Madhya Pradesh,2020-08-31,Monthly,5.0,14400000.0,39.5,Central,August,2020,Post-COVID
+Madhya Pradesh,2020-09-30,Monthly,4.5,14500000.0,40.0,Central,September,2020,Post-COVID
+Madhya Pradesh,2020-10-31,Monthly,4.0,14600000.0,40.5,Central,October,2020,Post-COVID
+Madhya Pradesh,2020-11-30,Monthly,3.8,14700000.0,41.0,Central,November,2020,Post-COVID
+Maharashtra,2020-01-31,Monthly,4.5,30000000.0,43.0,West,January,2020,Pre-COVID
+Maharashtra,2020-02-29,Monthly,4.8,30100000.0,43.2,West,February,2020,Pre-COVID
+Maharashtra,2020-03-31,Monthly,12.0,28500000.0,41.0,West,March,2020,Post-COVID
+Maharashtra,2020-04-30,Monthly,20.0,26000000.0,38.0,West,April,2020,Post-COVID
+Maharashtra,2020-05-31,Monthly,15.0,27000000.0,40.0,West,May,2020,Post-COVID
+Maharashtra,2020-06-30,Monthly,10.0,28000000.0,41.5,West,June,2020,Post-COVID
+Maharashtra,2020-07-31,Monthly,8.0,29000000.0,42.0,West,July,2020,Post-COVID
+Maharashtra,2020-08-31,Monthly,7.0,29500000.0,42.5,West,August,2020,Post-COVID
+Maharashtra,2020-09-30,Monthly,6.0,29800000.0,43.0,West,September,2020,Post-COVID
+Maharashtra,2020-10-31,Monthly,5.5,30000000.0,43.5,West,October,2020,Post-COVID
+Maharashtra,2020-11-30,Monthly,5.0,30200000.0,44.0,West,November,2020,Post-COVID
+Odisha,2020-01-31,Monthly,4.5,10500000.0,40.0,East,January,2020,Pre-COVID
+Odisha,2020-02-29,Monthly,5.0,10400000.0,39.8,East,February,2020,Pre-COVID
+Odisha,2020-03-31,Monthly,5.5,10300000.0,39.5,East,March,2020,Post-COVID
+Odisha,2020-04-30,Monthly,23.0,8800000.0,34.0,East,April,2020,Post-COVID
+Odisha,2020-05-31,Monthly,21.0,9000000.0,35.0,East,May,2020,Post-COVID
+Odisha,2020-06-30,Monthly,10.0,9900000.0,38.0,East,June,2020,Post-COVID
+Odisha,2020-07-31,Monthly,8.0,10100000.0,39.0,East,July,2020,Post-COVID
+Odisha,2020-08-31,Monthly,7.0,10200000.0,39.5,East,August,2020,Post-COVID
+Odisha,2020-09-30,Monthly,6.0,10300000.0,40.0,East,September,2020,Post-COVID
+Odisha,2020-10-31,Monthly,5.5,10400000.0,40.5,East,October,2020,Post-COVID
+Odisha,2020-11-30,Monthly,5.0,10500000.0,41.0,East,November,2020,Post-COVID
+Punjab,2020-01-31,Monthly,9.0,8000000.0,42.0,North,January,2020,Pre-COVID
+Punjab,2020-02-29,Monthly,8.5,8050000.0,42.2,North,February,2020,Pre-COVID
+Punjab,2020-03-31,Monthly,10.0,7900000.0,41.5,North,March,2020,Post-COVID
+Punjab,2020-04-30,Monthly,40.0,6000000.0,34.0,North,April,2020,Post-COVID
+Punjab,2020-05-31,Monthly,29.0,6800000.0,37.0,North,May,2020,Post-COVID
+Punjab,2020-06-30,Monthly,12.0,7600000.0,40.0,North,June,2020,Post-COVID
+Punjab,2020-07-31,Monthly,11.0,7700000.0,40.5,North,July,2020,Post-COVID
+Punjab,2020-08-31,Monthly,10.0,7800000.0,41.0,North,August,2020,Post-COVID
+Punjab,2020-09-30,Monthly,9.0,7900000.0,41.5,North,September,2020,Post-COVID
+Punjab,2020-10-31,Monthly,8.0,8000000.0,42.0,North,October,2020,Post-COVID
+Punjab,2020-11-30,Monthly,7.0,8100000.0,42.5,North,November,2020,Post-COVID
+Rajasthan,2020-01-31,Monthly,15.0,13000000.0,40.0,North,January,2020,Pre-COVID
+Rajasthan,2020-02-29,Monthly,14.0,13100000.0,40.2,North,February,2020,Pre-COVID
+Rajasthan,2020-03-31,Monthly,18.0,12800000.0,39.0,North,March,2020,Post-COVID
+Rajasthan,2020-04-30,Monthly,35.0,11000000.0,34.0,North,April,2020,Post-COVID
+Rajasthan,2020-05-31,Monthly,30.0,11500000.0,35.0,North,May,2020,Post-COVID
+Rajasthan,2020-06-30,Monthly,20.0,12300000.0,38.0,North,June,2020,Post-COVID
+Rajasthan,2020-07-31,Monthly,18.0,12500000.0,38.5,North,July,2020,Post-COVID
+Rajasthan,2020-08-31,Monthly,16.0,12700000.0,39.0,North,August,2020,Post-COVID
+Rajasthan,2020-09-30,Monthly,14.0,12900000.0,39.5,North,September,2020,Post-COVID
+Rajasthan,2020-10-31,Monthly,13.0,13000000.0,40.0,North,October,2020,Post-COVID
+Rajasthan,2020-11-30,Monthly,12.0,13100000.0,40.5,North,November,2020,Post-COVID
+Tamil Nadu,2020-01-31,Monthly,4.0,25000000.0,43.0,South,January,2020,Pre-COVID
+Tamil Nadu,2020-02-29,Monthly,4.5,24900000.0,43.2,South,February,2020,Pre-COVID
+Tamil Nadu,2020-03-31,Monthly,5.0,24700000.0,42.5,South,March,2020,Post-COVID
+Tamil Nadu,2020-04-30,Monthly,33.0,19000000.0,36.0,South,April,2020,Post-COVID
+Tamil Nadu,2020-05-31,Monthly,25.0,21000000.0,39.0,South,May,2020,Post-COVID
+Tamil Nadu,2020-06-30,Monthly,12.0,23500000.0,41.0,South,June,2020,Post-COVID
+Tamil Nadu,2020-07-31,Monthly,9.0,24000000.0,41.5,South,July,2020,Post-COVID
+Tamil Nadu,2020-08-31,Monthly,8.0,24200000.0,42.0,South,August,2020,Post-COVID
+Tamil Nadu,2020-09-30,Monthly,7.0,24400000.0,42.5,South,September,2020,Post-COVID
+Tamil Nadu,2020-10-31,Monthly,6.0,24600000.0,43.0,South,October,2020,Post-COVID
+Tamil Nadu,2020-11-30,Monthly,5.5,24800000.0,43.5,South,November,2020,Post-COVID
+Telangana,2020-01-31,Monthly,5.0,12500000.0,43.0,South,January,2020,Pre-COVID
+Telangana,2020-02-29,Monthly,5.5,12400000.0,42.8,South,February,2020,Pre-COVID
+Telangana,2020-03-31,Monthly,6.0,12300000.0,42.5,South,March,2020,Post-COVID
+Telangana,2020-04-30,Monthly,35.0,9500000.0,34.0,South,April,2020,Post-COVID
+Telangana,2020-05-31,Monthly,25.0,10500000.0,37.0,South,May,2020,Post-COVID
+Telangana,2020-06-30,Monthly,10.0,11800000.0,40.0,South,June,2020,Post-COVID
+Telangana,2020-07-31,Monthly,8.0,12100000.0,41.0,South,July,2020,Post-COVID
+Telangana,2020-08-31,Monthly,7.0,12200000.0,41.5,South,August,2020,Post-COVID
+Telangana,2020-09-30,Monthly,6.0,12300000.0,42.0,South,September,2020,Post-COVID
+Telangana,2020-10-31,Monthly,5.5,12400000.0,42.5,South,October,2020,Post-COVID
+Telangana,2020-11-30,Monthly,5.0,12500000.0,43.0,South,November,2020,Post-COVID
+Uttar Pradesh,2020-01-31,Monthly,8.0,50000000.0,39.0,North,January,2020,Pre-COVID
+Uttar Pradesh,2020-02-29,Monthly,7.5,50200000.0,39.2,North,February,2020,Pre-COVID
+Uttar Pradesh,2020-03-31,Monthly,9.0,49500000.0,38.5,North,March,2020,Post-COVID
+Uttar Pradesh,2020-04-30,Monthly,22.0,43000000.0,34.0,North,April,2020,Post-COVID
+Uttar Pradesh,2020-05-31,Monthly,17.0,45000000.0,36.0,North,May,2020,Post-COVID
+Uttar Pradesh,2020-06-30,Monthly,12.0,47000000.0,38.0,North,June,2020,Post-COVID
+Uttar Pradesh,2020-07-31,Monthly,10.0,48000000.0,39.0,North,July,2020,Post-COVID
+Uttar Pradesh,2020-08-31,Monthly,9.0,48500000.0,39.5,North,August,2020,Post-COVID
+Uttar Pradesh,2020-09-30,Monthly,8.0,49000000.0,40.0,North,September,2020,Post-COVID
+Uttar Pradesh,2020-10-31,Monthly,7.0,49500000.0,40.5,North,October,2020,Post-COVID
+Uttar Pradesh,2020-11-30,Monthly,6.5,50000000.0,41.0,North,November,2020,Post-COVID
+Uttarakhand,2020-01-31,Monthly,6.5,3200000.0,41.0,North,January,2020,Pre-COVID
+Uttarakhand,2020-02-29,Monthly,6.0,3220000.0,41.2,North,February,2020,Pre-COVID
+Uttarakhand,2020-03-31,Monthly,8.0,3180000.0,40.5,North,March,2020,Post-COVID
+Uttarakhand,2020-04-30,Monthly,10.0,3000000.0,38.0,North,April,2020,Post-COVID
+Uttarakhand,2020-05-31,Monthly,8.5,3050000.0,39.0,North,May,2020,Post-COVID
+Uttarakhand,2020-06-30,Monthly,7.0,3120000.0,40.0,North,June,2020,Post-COVID
+Uttarakhand,2020-07-31,Monthly,6.5,3150000.0,40.5,North,July,2020,Post-COVID
+Uttarakhand,2020-08-31,Monthly,6.0,3180000.0,41.0,North,August,2020,Post-COVID
+Uttarakhand,2020-09-30,Monthly,5.5,3200000.0,41.5,North,September,2020,Post-COVID
+Uttarakhand,2020-10-31,Monthly,5.0,3220000.0,42.0,North,October,2020,Post-COVID
+Uttarakhand,2020-11-30,Monthly,4.8,3240000.0,42.2,North,November,2020,Post-COVID
+West Bengal,2020-01-31,Monthly,6.0,21000000.0,40.0,East,January,2020,Pre-COVID
+West Bengal,2020-02-29,Monthly,6.5,20900000.0,40.2,East,February,2020,Pre-COVID
+West Bengal,2020-03-31,Monthly,7.0,20700000.0,39.5,East,March,2020,Post-COVID
+West Bengal,2020-04-30,Monthly,18.0,18500000.0,36.0,East,April,2020,Post-COVID
+West Bengal,2020-05-31,Monthly,17.0,18800000.0,36.5,East,May,2020,Post-COVID
+West Bengal,2020-06-30,Monthly,11.0,19800000.0,38.0,East,June,2020,Post-COVID
+West Bengal,2020-07-31,Monthly,9.0,20200000.0,39.0,East,July,2020,Post-COVID
+West Bengal,2020-08-31,Monthly,8.0,20400000.0,39.5,East,August,2020,Post-COVID
+West Bengal,2020-09-30,Monthly,7.0,20600000.0,40.0,East,September,2020,Post-COVID
+West Bengal,2020-10-31,Monthly,6.5,20800000.0,40.5,East,October,2020,Post-COVID
+West Bengal,2020-11-30,Monthly,6.0,21000000.0,41.0,East,November,2020,Post-COVID
